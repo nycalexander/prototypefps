@@ -1,4 +1,4 @@
-# Prototype FPS
+# Prototype FPS (Showcase)
 
 ## Table of Contents
 
