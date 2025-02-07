@@ -147,4 +147,18 @@ This project represents a prototype first-person shooter (FPS) game developed wi
 
 ### Demos
 
-todo.
+<div>
+<video src="https://github.com/user-attachments/assets/ec1df07a-99fb-4fe4-82f8-9b7f1d2b3858" autoplay loop muted />
+</div>
+
+<div>
+<video src="https://github.com/user-attachments/assets/6e67172b-5c50-443b-b3fd-75bd775f8d9b" autoplay loop muted />
+</div>
+
+<div>
+<video src="https://github.com/user-attachments/assets/3671dce8-53ea-49e7-bca6-46380788aa0a" autoplay loop muted />
+</div>
+
+<div>
+<video src="https://github.com/user-attachments/assets/993e4b7f-fa66-432f-a706-c57daf6de4c2" autoplay loop muted />
+</div>
